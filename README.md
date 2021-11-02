@@ -8,7 +8,7 @@
 
 
  <a href="https://conversor-de-moedas-2v.netlify.app/">Link do site
-<img src="../assets/readme_project.png" alt="imagem da lista de tarefas">
+<img src="../assets/readme_project.png" alt="imagem da lista do site de conversão">
 </a>
 
 > o projeto se trata de um site onde os usuários poderão converter valores em reais para 3 tipos de moedas , Dólar ,Euro e Bitcoin .
