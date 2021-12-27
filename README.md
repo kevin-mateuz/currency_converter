@@ -13,12 +13,6 @@
 
 > o projeto se trata de um site onde os usuários poderão converter valores em reais para 3 tipos de moedas , Dólar ,Euro e Bitcoin .
 
-
-
-## 🤝 Colaboradores
-
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
-
 <table>
   <tr>
     <td align="center">
